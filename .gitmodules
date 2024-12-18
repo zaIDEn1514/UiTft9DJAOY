@@ -1,0 +1,5 @@
+[submodule "blazehttp"]
+	path = blazehttp
+	url = https://github.com/chaitin/blazehttp
+
+
